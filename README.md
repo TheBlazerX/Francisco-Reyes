@@ -1,4 +1,4 @@
 # Francisco-Reyes
-Tarea 1-Estructura de datos y algoritmos
+Tarea 2-Estructura de datos y algoritmos
 Mi nombre es Francisco Reyes, Tengo 20 años, mi Rut es 20.295.893-1, y estoy en tercer año de ingenieria civil informatica en la universidad Adolfo Ibañez.
-El programa que realice consiste en recibir un archivo txt, con informacion de nodos, sus respectivos links, y sus path ids, la idea es usar los 5 algortimos de ordenamiento para ordenar estos nodos de menor cantidad de links a mayor, y dps exportar un txt que contenga la información del algoritmo de ordenamiento que se uso, me de el orden de los nodos, y me diga el número de asignaciones y comparaciones del algoritmo de ordenamiento.
+El programa que realice consiste en recibir un archivo txt con información sobre distintas personas, esta se divide entre id, nombre, apellido, edad, genero, mail y direccion, el programa crea una lista y mete esta en una tabla hash, la cual ordena a todas las personas dependiendo de la letra por la que comience su apellido, el programa tiene diversas funciones a las cuales se accede ingresando el número correspondiente por pantalla, por ejemplo el número 1 es cargar el txt, el 2 agregar elemento, el 3 eliminar un elemento, y así siguen hasta el número 8 que realiza su respectiva acción.
